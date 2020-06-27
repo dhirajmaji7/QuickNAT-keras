@@ -1,5 +1,5 @@
 # The actual paper uses a combination of dice loss and weighted crossentropy, but instead we have implemented a generalised dice loss
-  with weighted crossentropy.
+# with weighted crossentropy.
 # generalised dice score is calculated as in this paper : https://arxiv.org/pdf/1707.03237
  
 # assign the weights here in proper order
